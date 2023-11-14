@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas <br>👯(1º primeiro período)<br>🤝 A procura de estágios<br>
 
 
