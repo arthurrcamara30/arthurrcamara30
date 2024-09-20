@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Sou estudante de Análise e Desenvolvimento de Sistemas <br>👯(1º primeiro período)<br>🤝 A procura de estágios<br>
+🔭 Sou estudante de Análise e Desenvolvimento de Sistemas <br>👯(Terceiro período)<br>🤝 Trabalho atualmente como Analista de Suporte Comercial<br>
 
 
 ## 🌐 Socials:
