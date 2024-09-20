@@ -1,5 +1,5 @@
-# 💫 Sobre mim:
-🔭 Sou estudante de Análise e Desenvolvimento de Sistemas <br>👯(Terceiro período)<br>🤝 Trabalho atualmente como Analista de Suporte Comercial na Vivo Telefônica. <br>
+# Sobre mim:
+🔭 Sou estudante de Análise e Desenvolvimento de Sistemas <br>(Terceiro período)<br>🤝 Trabalho atualmente como Analista de Suporte Comercial na Vivo Telefônica. <br>
 
 
 ## 🌐 Socials:
