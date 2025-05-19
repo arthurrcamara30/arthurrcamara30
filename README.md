@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, Eu sou Arthur Câmara!
 
-<!--
-**arthurrcamara30/arthurrcamara30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)
+### 💻 Apaixonado por tecnologia e desenvolvimento de software
+### 🚀 Buscando minha primeira oportunidade na área como desenvolvedor Java
+### 📚 Sempre aprendendo e evoluindo com foco em back-end
+### 🔧 Em constante prática com projetos, estudos e aprimoramento técnico
 
-Here are some ideas to get you started:
+[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur3007/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Arthur Câmara](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrcamara30&hide_progress=true)
+
+## 🛠 Tecnologias que uso / estudo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</div>
