@@ -8,7 +8,10 @@
 
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur3007/)
 
-![Arthur Câmara]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrcamara30&langs_count=8)
+### 🧠 Principais linguagens mais usadas no GitHub:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrcamara30&langs_count=8)
+
 
 ## 🛠 Tecnologias que uso / estudo
 
