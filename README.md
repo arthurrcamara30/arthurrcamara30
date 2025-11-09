@@ -1,4 +1,4 @@
-### Olá, Eu sou Arthur Câmara!
+### Olá, Eu sou Arthur Camara!
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)
 ### 💻 Apaixonado por tecnologia e desenvolvimento de software
